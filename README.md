@@ -9,10 +9,10 @@
 
 **Drive Link :- https://drive.google.com/drive/folders/1CF9nQb_gKGJ_TN4Fvb8CuyXxkHXk5GpP?usp=sharing**
 
-**Test Plan
-Test Cases
-Bug Report
-RTM
-Test Report
-Test Metrics**
+**Test Plan**
+**Test Cases**
+**Bug Report**
+**RTM**
+**Test Report**
+**Test Metrics**
 
