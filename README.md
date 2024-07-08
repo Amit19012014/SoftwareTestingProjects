@@ -1,7 +1,7 @@
 # SoftwareTestingProjects
 **All the manual testing projects with Documents**
 
-**Project #1 - Test case and Test Plan for App.vwo.com.**
+**Project #1 - Test Plan and Test cases for App.vwo.com.**
 
 **Drive Link :- https://drive.google.com/drive/folders/1CF9nQb_gKGJ_TN4Fvb8CuyXxkHXk5GpP?usp=sharing**
 
